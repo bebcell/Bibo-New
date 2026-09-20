@@ -9,7 +9,7 @@ public class test {
 	
 	public static void main(String[]args) {
 		int num1=19;
-		int num2=30;
+		int num2=31;
 		swap(num3,num4);
 		System.out.println(num3+"THe "+num4);
 	}
